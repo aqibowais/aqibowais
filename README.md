@@ -41,18 +41,15 @@
 	<p align="center">
 		<img
 			src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
-	<h2 align="center">Time spent on Coding evidence!</h2>
-	<p align="center">
-		<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" width="95%">
-		<br>
-		<br><br>
-		<img
-			src="https://github-readme-stats.vercel.app/api?username=aqibowais&show_icons=true&locale=en&count_private=true&theme=outrun" />
-		<br> <br>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=aqibowais&theme=outrun" />
-		<br> <br>
-		<img src="https://github-profile-trophy.vercel.app/?username=aqibowais&theme=algolia&no-frame=true&column=-1" />
-	</p>
+	
+<p align="center">
+		
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqibowais&show_icons=true&locale=en&count_private=true&theme=outrun" />
+<br> <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aqibowais&theme=outrun" />
+<br> <br>
+<img src="https://github-profile-trophy.vercel.app/?username=aqibowais&theme=algolia&no-frame=true&column=-1" />
+</p>
 
 
 
