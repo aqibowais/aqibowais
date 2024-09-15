@@ -51,7 +51,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=aqibowais&theme=algolia&no-frame=true&column=-1" />
 </p>
 
+</br>
 
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+</br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aqibowais&label=Profile%20views&color=0e75b6&style=flat" alt="aqibowais" /> </p>
 
