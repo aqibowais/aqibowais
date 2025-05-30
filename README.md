@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **aqibowais60@gmail.com**
 
-- 📄 Know about my experiences [https://coral-lesya-93.tiiny.site/](https://coral-lesya-93.tiiny.site/)
+- 📄 Know about my experiences [https://codewithaqib.me/](https://codewithaqib.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
